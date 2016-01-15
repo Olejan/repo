@@ -1,1 +1,2 @@
 ﻿write("Hello world")
+write("Hello everybody")
